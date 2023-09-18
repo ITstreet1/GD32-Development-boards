@@ -79,7 +79,7 @@ Specs:
 * BOOT switch
 * UART bridge CP2012N
 
-# GD32F303CCT6
+# GD32F303CCT6 Clicker
 
 ![20230918_194223](https://github.com/ITstreet1/GD32-Development-boards/assets/30090189/5c0bd4b1-c569-4c45-8dec-a1ea1c68044a)
 
